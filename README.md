@@ -15,7 +15,9 @@
 
 本镜像不会因为大量占用资源而被封号。
 
-[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2Fshyperwang%2Fv2ray-heroku-self)
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2F
+
+snlovlogkr%2Fv2ray-heroku-self)
 
 ## ENV 设定
 
